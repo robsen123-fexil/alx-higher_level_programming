@@ -1,1 +1,1 @@
-python class projects 
+python class projects
