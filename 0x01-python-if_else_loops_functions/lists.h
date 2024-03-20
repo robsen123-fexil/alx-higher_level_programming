@@ -5,8 +5,10 @@
 
 /**
  * struct listint_s - singly linked list
- * @n: variable
- * @next: next node
+ * @n: integer
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
  */
 typedef struct listint_s
 {
